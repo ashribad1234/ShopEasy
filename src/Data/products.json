@@ -1,0 +1,519 @@
+  {
+    "message": "",
+    "result": true,
+    "data": [
+      {
+        "productId": 1,
+        "productSku": "abcd",
+        "productName": "Webcamera",
+        "productPrice": 383.99,
+        "productShortName": "Webcamera",
+        "productDescription": "Supports Full HD 1080p@30 Video with 100° Ultra-Wide Angle FOV: Capture every detail with stunning 1080p resolution and a 100° ultra-wide angle field of view, perfect for professional stream",
+        "createdDate": "2025-02-08T15:17:43.31",
+        "deliveryTimeSpan": "1-2 weeks",
+        "categoryId": 2,
+        "img": [
+          {
+            "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/28488446/2024/7/22/7f1537a9-73f1-46d8-b7ff-99c6cc1b05831721647928453-FUJIFILM-Blue-Instax-Mini-12-Instant-Camera-5111721647928133-1.jpg"
+          },
+          {
+            "image": "https://immagini.trovaprezzi.it/magazine/2024/03/Galaxy-A55.png"
+          }
+        ],
+        "categoryName": "Camera"
+      },
+      {
+        "productId": 2,
+        "productSku": "987",
+        "productName": "WebCamera",
+        "productPrice": 433.99,
+        "productShortName": "WebCamera",
+        "productDescription": "Supports Full HD 1080p@30 Video with 100° Ultra-Wide Angle FOV: Capture every detail with stunning 1080p resolution and a 100° ultra-wide angle field of view, perfect for professional streaming, video conferencing, and gaming.",
+        "createdDate": "2025-02-08T15:42:05.62",
+        "deliveryTimeSpan": "1-2 weeks",
+        "categoryId": 2,
+        "img": [
+          {
+            "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/28234278/2024/3/14/c6f43885-50ab-4280-8f7d-71c3e68019d01710388987205Cameras3.jpg"
+          }
+        ],
+        "categoryName": "Camera"
+      },
+      {
+        "productId": 22,
+        "productSku": "123",
+        "productName": "Louis",
+        "productPrice": 330.99,
+        "productShortName": "Web Camera",
+        "productDescription": "Supports Full HD 1080p@30 Video with 100° Ultra-Wide Angle FOV: Capture every detail with stunning 1080p resolution and a 100° ultra-wide angle field of view, perfect for professional streaming, video conferencing, and gaming.",
+        "createdDate": "2025-02-08T15:08:42.467",
+        "deliveryTimeSpan": "1-2 weeks",
+        "categoryId": 2,
+        "img": [
+          {
+            "image": "data:image/jpeg;base64,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"
+          }
+        ],
+        "categoryName": "Camera"
+      },
+      {
+        "productId": 23,
+        "productSku": "1234",
+        "productName": "ClearOne Unite 20 Pro Wide-Angle Web Camera",
+        "productPrice": 33.99,
+        "productShortName": "Web camera",
+        "productDescription": "Supports Full HD 1080p@30 Video with 100° Ultra-Wide Angle FOV: Capture every detail with stunning 1080p resolution and a 100° ultra-wide angle field of view, perfect for professional streaming, video conferencing, and gaming.",
+        "createdDate": "2025-02-08T15:10:21.607",
+        "deliveryTimeSpan": "1-2 weeks",
+        "categoryId": 2,
+        "img": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF06xYL9IGB64wIZAn3LRkhin94XN7CYg2Kw&s"
+          }
+        ],
+        "categoryName": "Camera"
+      },
+      {
+        "productId": 3,
+        "productSku": "ABC01",
+        "productName": "Test",
+        "productPrice": 120,
+        "productShortName": "t",
+        "productDescription": "test",
+        "createdDate": "2025-02-18T21:44:57.16",
+        "deliveryTimeSpan": "0",
+        "categoryId": 13,
+        "img": [
+          {
+            "image": "https://immagini.trovaprezzi.it/magazine/2024/03/Galaxy-A55.png"
+          }
+        ],
+        "categoryName": "mobile"
+      },
+      {
+        "productId": 4,
+        "productSku": "BTS-SPKR-300",
+        "productName": "Bluetooth Speaker",
+        "productPrice": 991,
+        "productShortName": "Speaker",
+        "productDescription": "A compact and portable Bluetooth speaker with deep bass, 10-hour battery life, and waterproof design.",
+        "createdDate": "2025-02-02T22:52:30.267",
+        "deliveryTimeSpan": "1-3 days",
+        "categoryId": 5,
+        "img": [
+          {
+            "image": ""
+          }
+        ],
+        "categoryName": "Monitor"
+      },
+      {
+        "productId": 5,
+        "productSku": "Sony Alpha ILCE-6100Y",
+        "productName": "Sony Alpha ILCE-6100Y",
+        "productPrice": 1000,
+        "productShortName": "Sony Alpha ILCE-6100Y",
+        "productDescription": "Sigma 24-70Mm F/2.8 Dg Dn Full Frame Lens for Sony E Mount Mirror-Less Cameras - Black",
+        "createdDate": "2024-07-15T15:58:36.743",
+        "deliveryTimeSpan": "5-7 days",
+        "categoryId": 2,
+        "img": [
+          {
+            "image": "https://m.media-amazon.com/images/I/41w9-ptS-uL._SY300_SX300_QL70_FMwebp_.jpg"
+          }
+        ],
+        "categoryName": "Camera"
+      },
+      {
+        "productId": 6,
+        "productSku": "Sk-1",
+        "productName": "Samsung Ultra Mobile updated",
+        "productPrice": 90,
+        "productShortName": "SM Phone",
+        "productDescription": "Test Product",
+        "createdDate": "2024-11-11T06:21:07.8",
+        "deliveryTimeSpan": "10 Days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0praxNFT7dTQYuQlpiE9nl6gbXzpnY0kSRg&s"
+          }
+        ],
+        "categoryName": "mobile"
+      },
+      {
+        "productId": 7,
+        "productSku": "SAMSUNG Galaxy Tab A9 Plus Wi-Fi+5G Android Tablet (11 Inch, 8GB RAM, 128GB ROM, Silver)",
+        "productName": "SAMSUNG Galaxy Tab A9 Plus Wi-Fi+5G Android Tablet",
+        "productPrice": 899,
+        "productShortName": "SAMSUNG Galaxy Tab A9 Plus Wi-Fi+5G Android Tablet",
+        "productDescription": "Prepare to be captivated by the stunning visuals on the 11-inch 1920 x 1200 (WUXGA) TFT LCD display. With a refresh rate of up to 90Hz, every image, video, and game comes to life with impeccable clarity and fluidity. Whether you're binge-watching your favorite shows or immersing yourself in the latest games, the display on this tab delivers an unrivaled visual experience..",
+        "createdDate": "2024-07-15T07:51:07.8",
+        "deliveryTimeSpan": "5 days",
+        "categoryId": 3,
+        "img": [
+          {
+            "image": "https://image.oppo.com/content/dam/oppo/en/mkt/newsroom/press/oppo-launches-find-x-five-series/img-01.jpg.thumb.webp"
+          }
+        ],
+        "categoryName": "Tablet"
+      },
+      {
+        "productId": 8,
+        "productSku": "Samsung Galaxy Book3 Pro ",
+        "productName": "Samsung Galaxy Book3 Pro ",
+        "productPrice": 119990,
+        "productShortName": "Samsung Galaxy Book3 Pro ",
+        "productDescription": "Samsung Galaxy Book3 Pro 360 Intel 13th Gen i7 EvoTM 40.62cm(16) Touchscreen 2-in-1 3K Display, 120Hz, Thin & Light Laptop(16 GB/1 TB SSD/Windows 11/MS Office/S-Pen/Graphite/1.6Kg), NP960QFG-KA3IN",
+        "createdDate": "2024-07-15T14:59:15.047",
+        "deliveryTimeSpan": "5-7 days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://m.media-amazon.com/images/I/31aPzW9atKL._SX300_SY300_QL70_FMwebp_.jpg"
+          }
+        ],
+        "categoryName": "Laptop"
+      },
+      {
+        "productId": 9,
+        "productSku": "4476",
+        "productName": "rurigi",
+        "productPrice": 160,
+        "productShortName": "rigz",
+        "productDescription": "just rigz",
+        "createdDate": "2025-02-11T23:22:10.043",
+        "deliveryTimeSpan": "10",
+        "categoryId": 3,
+        "img": [
+          {
+            "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-121010/Xiaomi-12S-Ultra-featured-image-packshot-review.jpg"
+          }
+        ],
+        "categoryName": "Mobile"
+      },
+      {
+        "productId": 10,
+        "productSku": "4478",
+        "productName": "rurigi",
+        "productPrice": 1000,
+        "productShortName": "rigz",
+        "productDescription": "just something",
+        "createdDate": "2025-02-12T11:57:50.313",
+        "deliveryTimeSpan": "10 days",
+        "categoryId": 1,
+        "img": [
+          {
+            "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-121010/Xiaomi-12S-Ultra-featured-image-packshot-review.jpg"
+          }
+        ],
+        "categoryName": "Mobile"
+      },
+      {
+        "productId": 11,
+        "productSku": "Oppo Find X5 Pro",
+        "productName": "Oppo Find X5 Pro",
+        "productPrice": 40000,
+        "productShortName": "Oppo Find X5 Pro",
+        "productDescription": "Oppo Find X5 Pro",
+        "createdDate": "2024-06-06T12:02:50.927",
+        "deliveryTimeSpan": "4",
+        "categoryId": 1,
+        "img": [
+          {
+            "image": "https://image.oppo.com/content/dam/oppo/en/mkt/newsroom/press/oppo-launches-find-x-five-series/img-01.jpg.thumb.webp"
+          }
+        ],
+        "categoryName": "Mobile"
+      },
+      {
+        "productId": 12,
+        "productSku": "OnePlus Pad Go 28.82 cm",
+        "productName": "OnePlus Pad Go 28.82 cm",
+        "productPrice": 39998,
+        "productShortName": "OnePlus Pad Go 28.82 cm",
+        "productDescription": "OnePlus Pad Go 28.82 cm (11.35 inches) 8 GB RAM, 128 GB, Twin Mint, Wi-Fi Tablet, OPD2305 IN",
+        "createdDate": "2024-07-15T07:56:52.063",
+        "deliveryTimeSpan": "5 days",
+        "categoryId": 3,
+        "img": [
+          {
+            "image": "https://image.oppo.com/content/dam/oppo/en/mkt/newsroom/press/oppo-launches-find-x-five-series/img-01.jpg.thumb.webp"
+          }
+        ],
+        "categoryName": "Tablet"
+      },
+      {
+        "productId": 13,
+        "productSku": "Nikon Digital Camera",
+        "productName": "Nikon Digital Camera",
+        "productPrice": 999,
+        "productShortName": "Nikon Digital Camera",
+        "productDescription": "Nikon Digital Camera Z 6III Body with NIKKOR Z 24-120mm f/4 S Lens - Full-Frame Mirrorless, 24.5MP, 4K UHD Video, Fast Autofocus, in-Body Stabilization",
+        "createdDate": "2024-07-15T15:52:33.673",
+        "deliveryTimeSpan": "5-7 days",
+        "categoryId": 2,
+        "img": [
+          {
+            "image": "https://m.media-amazon.com/images/G/31/img24/camera/july/pd/tea-newlaunch/Launch_440x460_2._CB569410640_.png"
+          }
+        ],
+        "categoryName": "Camera"
+      },
+      {
+        "productId": 14,
+        "productSku": "A19-ty",
+        "productName": "maize",
+        "productPrice": 19001,
+        "productShortName": "ms",
+        "productDescription": "for food especially ugali",
+        "createdDate": "2024-10-02T14:25:58.367",
+        "deliveryTimeSpan": "4-5day",
+        "categoryId": 23,
+        "img": [
+          {
+            "image": "https://m.media-amazon.com/images/I/41w9-ptS-uL._SY300_SX300_QL70_FMwebp_.jpg"
+          }
+        ],
+        "categoryName": "cars"
+      },
+      {
+        "productId": 15,
+        "productSku": "Motorola Edge 30 Pro",
+        "productName": "Motorola Edge 3100 Pro",
+        "productPrice": 19,
+        "productShortName": "Motorola Edge 330 Pro",
+        "productDescription": "Motorola Edge 30 Pro",
+        "createdDate": "2024-06-06T12:01:09.81",
+        "deliveryTimeSpan": "5 Days",
+        "categoryId": 1,
+        "img": [
+          {
+            "image": "https://motorolaph.vtexassets.com/arquivos/ids/155434/motorola-edge30-pro-pdp-render-Cosmos-3-we9qp5nm.png?v=637842474822470000"
+          }
+        ],
+        "categoryName": "Mobile"
+      },
+      {
+        "productId": 16,
+        "productSku": "LG V90 ThinQ",
+        "productName": "LG V90 ThinQ",
+        "productPrice": 38000,
+        "productShortName": "LG V90 ThinQ",
+        "productDescription": "LG V90 ThinQ",
+        "createdDate": "2024-06-06T11:58:38.68",
+        "deliveryTimeSpan": "3",
+        "categoryId": 1,
+        "img": [
+          {
+            "image": "https://i.pinimg.com/736x/ce/bc/d7/cebcd741bf39058386b280fab5af1e75.jpg"
+          }
+        ],
+        "categoryName": "Mobile"
+      },
+      {
+        "productId": 17,
+        "productSku": "LPT-500X",
+        "productName": "Gaming Laptop",
+        "productPrice": 1298,
+        "productShortName": "Laptop",
+        "productDescription": "A high-performance gaming laptop with an Intel i7 processor, 16GB RAM, and RTX 3060 GPU.",
+        "createdDate": "2025-02-02T22:39:52.5",
+        "deliveryTimeSpan": "3-5 days",
+        "categoryId": 3,
+        "img": [
+          {
+            "image": ""
+          }
+        ],
+        "categoryName": "Tablet"
+      },
+      {
+        "productId": 18,
+        "productSku": "KALL N9 3G Calling Tablet (2GB RAM, 16GB Storage) (Black)",
+        "productName": "KALL N9 3G Calling Tablet (2GB RAM, 16GB Storage) (Black)",
+        "productPrice": 69999,
+        "productShortName": "IKALL N9 3G Calling Tablet",
+        "productDescription": "AKALL N9 3G Calling Tablet (2GB RAM, 16GB Storage) (Black)",
+        "createdDate": "2024-07-15T15:03:45.767",
+        "deliveryTimeSpan": "5-7 days",
+        "categoryId": 3,
+        "img": [
+          {
+            "image": "https://m.media-amazon.com/images/I/7185GL6hPlL._AC_UY327_FMwebp_QL65_.jpg"
+          }
+        ],
+        "categoryName": "Tablet"
+      },
+      {
+        "productId": 19,
+        "productSku": "Canon EOS 3000D DSLR Camera",
+        "productName": "Canon EOS 3000D DSLR Camera 1 Body, 18 - 55 mm Lens  (Black)",
+        "productPrice": 29990,
+        "productShortName": "Canon EOS 3000D DSLR Camera",
+        "productDescription": "If you are a photography enthusiast, then the Canon EOS 3000D DSLR Camera is a must-have gadget. Featuring an 18 MP (APS-C) CMOS sensor and the DIGIC 4+ imaging processor, you can capture amazing photos of your subject at all times, even in low-light conditions. Moreover, the remote Live View function lets you control this camera remotely using your smartphone so you can capture amazing photos even from a distance.",
+        "createdDate": "2024-07-15T07:37:30.887",
+        "deliveryTimeSpan": "5 days",
+        "categoryId": 2,
+        "img": [
+          {
+            "image": "https://cdn.mos.cms.futurecdn.net/Ekc54rx2YMgRt5ycD5KYf5.jpg"
+          }
+        ],
+        "categoryName": "Camera"
+      },
+      {
+        "productId": 20,
+        "productSku": "ASUS TUF Gaming F17 (2022)",
+        "productName": "ASUS TUF Gaming F17 (2022)",
+        "productPrice": 70990,
+        "productShortName": "ASUS TUF Gaming F17 (2022)",
+        "productDescription": "ASUS TUF Gaming F17 (2022) Intel Core i5-12500H Gaming Laptop,17.3(43.94 cms) FHD 144Hz, RTX 3050 4GB GPU, (16GB RAM /512GB SSD/90WHr Battery/Windows 11/Gray/2.6 Kg), FX707ZC4-HX067W",
+        "createdDate": "2024-07-15T15:01:39.133",
+        "deliveryTimeSpan": "5-7 days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://m.media-amazon.com/images/I/41m6q3pDQbL._SX300_SY300_QL70_FMwebp_.jpg"
+          }
+        ],
+        "categoryName": "Laptop"
+      },
+      {
+        "productId": 21,
+        "productSku": "Acer [Smartchoice] Aspire Lite",
+        "productName": "Acer [Smartchoice] Aspire Lite",
+        "productPrice": 27999,
+        "productShortName": "Acer [Smartchoice] Aspire Lite",
+        "productDescription": "Acer [Smartchoice] Aspire Lite AMD Ryzen 3 5300U Premium Thin and Light Laptop (Windows 11 Home/8 GB RAM/512 GB SSD) AL15-41 with 39.62 Full HD Display, Metal Body, Steel Gray, 1.6 KG",
+        "createdDate": "2024-07-15T14:54:45.803",
+        "deliveryTimeSpan": "1-2 days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://m.media-amazon.com/images/I/41qGPk4nUML._SX300_SY300_QL70_FMwebp_.jpg"
+          }
+        ],
+        "categoryName": "Laptop"
+      },
+      {
+        "productId": 24,
+        "productSku": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+        "productName": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+        "productPrice": 299,
+        "productShortName": "Acer [Smartchoice] Aspire Lite",
+        "productDescription": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand ",
+        "createdDate": "2024-07-15T14:54:45.803",
+        "deliveryTimeSpan": "1-2 days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+          }
+        ],
+        "categoryName": "women's clothing"
+      },
+      {
+        "productId": 25,
+        "productSku": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+        "productName": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+        "productPrice": 27999,
+        "productShortName": "Acer [Smartchoice] Aspire Lite",
+        "productDescription": "Acer [Smartchoice] Aspire Lite AMD Ryzen 3 5300U Premium Thin and Light Laptop (Windows 11 Home/8 GB RAM/512 GB SSD) AL15-41 with 39.62 Full HD Display, Metal Body, Steel Gray, 1.6 KG",
+        "createdDate": "2024-07-15T14:54:45.803",
+        "deliveryTimeSpan": "1-2 days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+          }
+        ],
+        "categoryName": "women's clothing"
+      },
+      {
+        "productId": 26,
+        "productSku": "Mens Casual Slim Fit",
+        "productName": "Mens Casual Slim Fit",
+        "productPrice": 2799,
+        "productShortName": "Acer [Smartchoice] Aspire Lite",
+        "productDescription": "Acer [Smartchoice] Aspire Lite AMD Ryzen 3 5300U Premium Thin and Light Laptop (Windows 11 Home/8 GB RAM/512 GB SSD) AL15-41 with 39.62 Full HD Display, Metal Body, Steel Gray, 1.6 KG",
+        "createdDate": "2024-07-15T14:54:45.803",
+        "deliveryTimeSpan": "1-2 days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+          }
+        ],
+        "categoryName": "men's clothing"
+      },
+      {
+        "productId": 27,
+        "productSku": "Mens Casual Slim Fit",
+        "productName": "Mens Casual Slim Fit",
+        "productPrice": 27999,
+        "productShortName": "Acer [Smartchoice] Aspire Lite",
+        "productDescription": "Acer [Smartchoice] Aspire Lite AMD Ryzen 3 5300U Premium Thin and Light Laptop (Windows 11 Home/8 GB RAM/512 GB SSD) AL15-41 with 39.62 Full HD Display, Metal Body, Steel Gray, 1.6 KG",
+        "createdDate": "2024-07-15T14:54:45.803",
+        "deliveryTimeSpan": "1-2 days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+          }
+        ],
+        "categoryName": "men's clothing"
+      },
+      {
+        "productId": 28,
+        "productSku": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "productName": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "productPrice": 27999,
+        "productShortName": "Acer [Smartchoice] Aspire Lite",
+        "productDescription": "Acer [Smartchoice] Aspire Lite AMD Ryzen 3 5300U Premium Thin and Light Laptop (Windows 11 Home/8 GB RAM/512 GB SSD) AL15-41 with 39.62 Full HD Display, Metal Body, Steel Gray, 1.6 KG",
+        "createdDate": "2024-07-15T14:54:45.803",
+        "deliveryTimeSpan": "1-2 days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+          }
+        ],
+        "categoryName": "jewelery"
+      },
+      {
+        "productId": 29,
+        "productSku": "Pierced Owl Rose Gold Plated Stainless Steel Doublee",
+        "productName": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+        "productPrice": 27999,
+        "productShortName": "Acer [Smartchoice] Aspire Lite",
+        "productDescription": "Acer [Smartchoice] Aspire Lite AMD Ryzen 3 5300U Premium Thin and Light Laptop (Windows 11 Home/8 GB RAM/512 GB SSD) AL15-41 with 39.62 Full HD Display, Metal Body, Steel Gray, 1.6 KG",
+        "createdDate": "2024-07-15T14:54:45.803",
+        "deliveryTimeSpan": "1-2 days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+          }
+        ],
+        "categoryName": "jewelery"
+      },
+      {
+        "productId": 30,
+        "productSku": "DANVOUY Womens T Shirt Casual Cotton Shor",
+        "productName": "DANVOUY Womens T Shirt Casual Cotton Shor",
+        "productPrice": 27999,
+        "productShortName": "Acer [Smartchoice] Aspire Lite",
+        "productDescription": "Acer [Smartchoice] Aspire Lite AMD Ryzen 3 5300U Premium Thin and Light Laptop (Windows 11 Home/8 GB RAM/512 GB SSD) AL15-41 with 39.62 Full HD Display, Metal Body, Steel Gray, 1.6 KG",
+        "createdDate": "2024-07-15T14:54:45.803",
+        "deliveryTimeSpan": "1-2 days",
+        "categoryId": 4,
+        "img": [
+          {
+            "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+          }
+        ],
+        "categoryName": "women's clothin"
+      }
+    ]
+  }

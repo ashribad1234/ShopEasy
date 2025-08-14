@@ -1,0 +1,48 @@
+.user-input-wrp {
+	position: relative;
+}
+.user-input-wrp .floating-label {
+	position: absolute;
+	pointer-events: none;
+	top: 10px;
+	left: 10px;
+	transition: 0.2s ease all;
+}
+.user-input-wrp input:focus ~ .floating-label,
+.user-input-wrp input:not(:focus):valid ~ .floating-label{
+	top: 0px;
+	left: 10px;
+	font-size: 13px;
+	opacity: 1;
+}
+  .user-input-wrp .floating-label {
+    position: absolute;
+    pointer-events: none;
+    top: 15px;
+    left: 12px;
+    font-size: 16px;
+    color: #999;
+    transition: 0.3s ease all;
+    background: white; 
+    padding: 0 5px;
+  }
+  
+  .user-input-wrp input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  .user-input-wrp input:focus ~ .floating-label,
+  .user-input-wrp input:not(:placeholder-shown) ~ .floating-label {
+    top: -8px; 
+    left: 12px;
+    font-size: 13px;
+    color: #007bff; 
+  }
+  
+
+  

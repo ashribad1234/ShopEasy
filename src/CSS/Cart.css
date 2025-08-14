@@ -1,0 +1,16 @@
+ 
+  
+#cartdetails {
+    height: 200px;
+    margin: 10px 0px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+   
+  }
+  #cartdetails .card-img-top {
+    height: 180px;
+    width: 28%;
+    position: relative;
+    margin: auto;
+}
